@@ -1,0 +1,10 @@
+module.exports = {
+  rest: {
+    defaultLimit: 25,
+    maxLimit: 100,
+    withCount: true,
+  },
+};
+
+
+// 8cd893ae172a93d5321ba5ebf8ca0afbacc04a5378189ecf121f1ddb8e89d23ae3678b1004a9a9f68195f290e78bc1348a0f0fa4254b5c84b5761638f219553d26020944400c1f225b5d7b71c03a31e4e0094e90dc202285ac1230cc78e5c4d367335a9a7928ea9e8f921280150ef08d4cce8b2cfa4cfaf40c66f564214f7eb1
